@@ -1,5 +1,5 @@
 ## Quantum Computing &amp; Quantum Information 
-##### (Willi-hans Steeb &amp Yorick Hardi)
+##### (Willi-Hans Steeb & Yorick Hardi)
 
 
 Solutions for the programming problems for chapters:
