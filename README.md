@@ -1,4 +1,4 @@
-# quantum computing &amp; quantum information
+# Quantum Computing &amp; Quantum Information
 
 ## I. Qubits
 
