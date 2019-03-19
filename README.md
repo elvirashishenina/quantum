@@ -7,4 +7,4 @@ Solutions for the programming problems for chapters:
 #### II. Kronecker product and tensor product
 
 
-##### by E.Shishenina new one
+##### by E.Shishenina
