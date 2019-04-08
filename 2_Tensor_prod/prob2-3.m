@@ -23,7 +23,7 @@ function m = mat_Kronecker(mn, mm)
   jm = size(mm'(:,1));
 
   for i = 1:in
-      for j = jn
+      for j = 1:jn
           m((i-1)*im+1:i*im, (j-1)*jm+1:j*jm) = mm(1:im, 1:jm) * mn(i,j);
       end
   end
