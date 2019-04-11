@@ -4,8 +4,9 @@
 
 Solutions for the programming problems for chapters:
 #### I. Qubits
-#### II. Kronecker product and tensor product
+#### II. Kronecker Product and Tensor Product
 #### III. Matrix Properties
+#### IV. Density Operators
 
 
 ##### by E.Shishenina
