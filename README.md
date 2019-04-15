@@ -7,6 +7,7 @@ Solutions for the programming problems for chapters:
 #### II. Kronecker Product and Tensor Product
 #### III. Matrix Properties
 #### IV. Density Operators
+#### V. Trace & Partial Trace
 
 
 ##### by E.Shishenina
