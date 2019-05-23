@@ -8,6 +8,6 @@ Solutions for the programming problems for chapters:
 #### III. Matrix Properties
 #### IV. Density Operators
 #### V. Trace & Partial Trace
-
+#### VI. Boolean Functions & Quantum Gates
 
 ##### by E.Shishenina
